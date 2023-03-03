@@ -1,7 +1,7 @@
 # GuildedRose
-Methode de test : création des tests puis correction et commit après la correction et test valide.
+Méthode de test : création des tests puis correction et commit après la correction et test valide.
 
-étapes : 
+étapes : 	
 1 : mise en place des tests pour le code de base pour voir les bugs présent.
 2 : correction des bugs
 3 : passage des tests Ok
