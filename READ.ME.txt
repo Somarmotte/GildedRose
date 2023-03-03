@@ -1,0 +1,11 @@
+Methode de test : création des tests puis correction et commit après la corrrection et test valide.
+
+etapes : 1 : mise en place de test pour le code de base pour voir les bugs présent.
+	 2 : correction des bugs
+         3 : passage des test Ok
+	 4 : refacto
+	 5 : repassage des test Ok
+
+
+		
+	  
